@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Operating & Consultation Suite 1",
+    "image": "/assets/images/Metropole_Clinic_facilities_1-768x1024.webp"
+  },
+  {
+    "id": 2,
+    "title": "Operating & Consultation Suite 2",
+    "image": "/assets/images/Metropole_Clinic_facilities_2-768x1024.webp"
+  },
+  {
+    "id": 3,
+    "title": "Operating & Consultation Suite 3",
+    "image": "/assets/images/Metropole_Clinic_facilities_3-768x1024.webp"
+  },
+  {
+    "id": 4,
+    "title": "Operating & Consultation Suite 4",
+    "image": "/assets/images/Metropole_Clinic_facilities_4-768x1024.webp"
+  },
+  {
+    "id": 5,
+    "title": "Operating & Consultation Suite 5",
+    "image": "/assets/images/Metropole_Clinic_facilities_5-768x1024.webp"
+  },
+  {
+    "id": 6,
+    "title": "Operating & Consultation Suite 6",
+    "image": "/assets/images/Metropole_Clinic_facilities_6-768x1024.webp"
+  },
+  {
+    "id": 7,
+    "title": "Operating & Consultation Suite 7",
+    "image": "/assets/images/Metropole_Clinic_facilities_7-768x1024.webp"
+  }
+]

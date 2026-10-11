@@ -1,0 +1,44 @@
+[
+  {
+    "number": "01",
+    "title": "Examination & Consultation",
+    "desc": "Detailed clinical assessment, 3D facial analysis and comprehensive evaluation of facial laxity with Specialist Level I Dr. Tran Toan.",
+    "image": "/assets/images/1-consultation.webp"
+  },
+  {
+    "number": "02",
+    "title": "Pre-operative Health Assessment",
+    "desc": "Thorough pre-surgical health screening including blood panels, vitals, cardiovascular screening, and medical history verification.",
+    "image": "/assets/images/2-Pre-operative-Health-Assessment.webp"
+  },
+  {
+    "number": "03",
+    "title": "Pre-operative Marking",
+    "desc": "Precise anatomical vector marking and incision planning hidden within hairline and natural ear contours for invisible scar healing.",
+    "image": "/assets/images/3-pre-operative-marking.webp"
+  },
+  {
+    "number": "04",
+    "title": "The Natural Facelift Procedure",
+    "desc": "Sterile hospital-standard surgery addressing the deep SMAS layer and platysma under safe monitored local anesthesia.",
+    "image": "/assets/images/4-The-Natural-Facelift-Procedure.webp"
+  },
+  {
+    "number": "05",
+    "title": "Reveal Your Natural Results",
+    "desc": "Restoring youthful volume and defined jawline contours while ensuring smooth, dynamic natural facial expression without tension.",
+    "image": "/assets/images/5-Reveal-Your-Natural-Results.webp"
+  },
+  {
+    "number": "06",
+    "title": "Follow-up Care & Recovery",
+    "desc": "Attentive post-operative nursing, specialized swelling management, red light recovery therapy, and continuous doctor check-ups.",
+    "image": "/assets/images/6-Follow-up-Care.webp"
+  },
+  {
+    "number": "07",
+    "title": "Stitch Removal & Evaluation",
+    "desc": "Delicate suture removal at day 7\u201310, scar management guidance, and structured long-term beauty follow-up protocols.",
+    "image": "/assets/images/7-Stitch-Removal.webp"
+  }
+]

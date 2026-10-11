@@ -1,0 +1,37 @@
+[
+  {
+    "id": "under-40",
+    "num": "01",
+    "title": "Under 40",
+    "desc": "Moderate signs of facial aging with reduced cheek tissue elasticity",
+    "image": "/assets/images/1.webp"
+  },
+  {
+    "id": "over-45",
+    "num": "02",
+    "title": "Over 45",
+    "desc": "Advanced facial aging with skin laxity and loss of facial vitality",
+    "image": "/assets/images/2-1.webp"
+  },
+  {
+    "id": "nasolabial-folds",
+    "num": "03",
+    "title": "Deep Nasolabial Folds",
+    "desc": "Deep nasolabial folds affecting smile confidence and social interaction",
+    "image": "/assets/images/3-1.webp"
+  },
+  {
+    "id": "skin-laxity",
+    "num": "04",
+    "title": "Skin Laxity & Reduced Elasticity",
+    "desc": "Typically seen in women over 55 and men over 60 with severe tissue drooping",
+    "image": "/assets/images/4.webp"
+  },
+  {
+    "id": "previous-treatment",
+    "num": "05",
+    "title": "Previous Treatment, Unsatisfactory Results",
+    "desc": "Previous facelift with incomplete results, distorted hairline or noticeable scarring",
+    "image": "/assets/images/5.webp"
+  }
+]
