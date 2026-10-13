@@ -1,6 +1,6 @@
-# Neva Clinic by J Park Team Official - Website Clone
+# Metropole Clinic by J Park Team Official - Website Clone
 
-Trang web sao chép đầy đủ từ giao diện (UI) đến tính năng (UX) của trang web thẩm mỹ viện cao cấp **Neva Clinic by J Park Team** (`https://jparkmedi.com`).
+Trang web sao chép đầy đủ từ giao diện (UI) đến tính năng (UX) của trang web thẩm mỹ viện cao cấp **Metropole Clinic by J Park Team** (`https://jparkmedi.com`).
 
 Được xây dựng bằng **Vite**, **Tailwind CSS**, và **Swiper.js**.
 
@@ -10,7 +10,7 @@ Trang web sao chép đầy đủ từ giao diện (UI) đến tính năng (UX) c
 
 1. **Giao diện chuẩn y khoa cao cấp (Aesthetic Medical UI/UX):**
    - Phối màu đặc trưng: Deep Navy (`#102A43`), Champagne Gold (`#B59A62`), Warm Ivory (`#FFFDF8`).
-   - Hỗ trợ 2 chế độ hiển thị linh hoạt: **Mobile Frame (460px)** (chuẩn landing page gốc của ABmedi) và **Desktop Full Width** (cho màn hình lớn).
+   - Hỗ trợ 2 chế độ hiển thị linh hoạt: **Mobile Frame (460px)** (chuẩn landing page gốc của J Park) và **Desktop Full Width** (cho màn hình lớn).
    - Hỗ trợ chuyển đổi song ngữ: **English (EN)** & **Tiếng Việt (VI)**.
 
 2. **Toàn bộ 16 phần cấu trúc chi tiết:**
@@ -38,7 +38,7 @@ Trang web sao chép đầy đủ từ giao diện (UI) đến tính năng (UX) c
 3. **Hộp công cụ nổi & Popups (Modals & Lightbox):**
    - Nút nổi **GIFT** (hộp quà lắc lư bên trái): Mở popup ưu đãi độc quyền & form đặt cọc $500 / $200 USD qua PayPal / Thẻ tín dụng.
    - Thanh liên hệ nhanh bên phải: WhatsApp, Đăng ký tư vấn, Nút cuộn lên đầu trang (Top).
-   - Popup toàn bộ bảng giá (`#prices-list-full`) với 10 danh mục và 74 dịch vụ chuẩn giá gốc ABmedi.
+   - Popup toàn bộ bảng giá (`#prices-list-full`) với 10 danh mục và 74 dịch vụ chuẩn giá gốc J Park.
    - Popup form tư vấn nhanh (`#dang-ky`).
    - Popup chính sách bảo mật (`#chinh-sach-bao-mat`) & điều khoản (`#dieu-khoan-su-dung`).
    - Popup phóng to hình ảnh kết quả phẫu thuật (`#imageViewerModal`).

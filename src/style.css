@@ -91,6 +91,22 @@ body {
   text-align: center;
 }
 
+.dvldp-pill p {
+  display: inline-block;
+  min-width: 196px;
+  margin: 0;
+  padding: 1px 22px;
+  border: 1px solid var(--dvldp-gold);
+  border-radius: 99px;
+  background: linear-gradient(180deg, #fffaf0 0%, var(--dvldp-gold-soft) 100%);
+  color: var(--dvldp-gold);
+  font-family: var(--dvldp-font-round);
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+
 .dvldp-pill span {
   display: inline-block;
   min-width: 196px;
